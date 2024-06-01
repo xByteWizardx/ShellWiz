@@ -1,4 +1,7 @@
 #!/bin/bash
+# Herramienta dirigida a personas que quieren
+# un cambio de estetica en la shell
+# Desarrollado por: Jorge Arana Fedriani
 
 # Colors
 RED='\033[0;31m'
